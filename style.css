@@ -1,0 +1,69 @@
+body{
+   background: #faf5f1;
+   font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+    height: 30px;
+    padding-top: 10px;
+    justify-items: center;
+    font-size: 20px;    
+}
+.a-header{
+    padding-right: 30px;
+    text-decoration: none;
+    text-align: center;
+    color: #8f7a6e;
+}
+.goty-meio-site{
+    height: 180px;
+    width: 400px;
+    font-size: 5em;
+    text-align: left;
+    color: #8c8c8c;
+    font-family: "Minecraftia, 'Droid Sans Mono', 'monospace', monospace";
+}
+.text-baixo-goty{
+    height: 70px;
+    width: 800px;
+    font-size: 25px;
+    color: #666666;
+}
+.votacao{
+    height: 260px;
+    width: 200px;
+    text-align: center;
+    background: #292f36;
+    font-size: 17px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.votacao p{
+    color: #e0dbdb;
+}
+.votacao img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+
+}
+.votacao a{
+    text-decoration: none;
+}
+#indicados-1{
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
+#indicados-2{
+    display: flex;
+}
+#indicados-3{
+    display: flex;
+}
+
+footer{
+    width: 700px;
+    
+}
